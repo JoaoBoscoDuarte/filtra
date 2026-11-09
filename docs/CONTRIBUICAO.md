@@ -13,10 +13,10 @@ Projeto em dupla: João Bosco e Maria Mariana (Mari). O progresso fica em [CHECK
 
 ## Implementação manual e de biblioteca
 
-As duas versões ficam no projeto, em pastas separadas e com o mesmo nome de arquivo e de função:
+As duas versões ficam no projeto, em pastas separadas e com o mesmo nome de arquivo e de função (estrutura completa em [ARQUITETURA.md](ARQUITETURA.md)):
 
 ```
-core/
+backend/core/
   manual/       # implementação própria (é a que a interface usa)
     limiarizacao.py
   biblioteca/   # mesma operação via biblioteca, só para comparação
